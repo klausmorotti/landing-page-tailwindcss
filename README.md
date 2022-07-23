@@ -56,7 +56,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 ## 📝 Licença
 
-Este projeto está sob licença. Consulte o arquivo <a href="https://github.com/klausmorotti/draw-canvas/blob/master/LICENSE">LICENSE</a> para obter mais detalhes.
+Este projeto está sob licença. Consulte o arquivo <a href="https://github.com/klausmorotti/landing-page-tailwindcss/blob/master/LICENSE">LICENSE</a> para obter mais detalhes.
 
 
 <a href="#top">Volte para o topo</a>
