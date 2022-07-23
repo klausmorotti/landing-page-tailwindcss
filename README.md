@@ -1,46 +1,62 @@
-# Getting Started with Create React App
+<h1 align="center">Landing Page com TailwindCSS</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="" alt="Video Projeto" width="900" height="500">
 
-## Available Scripts
+> 🔎 Landing Page informativa utilizando da biblioteca TailwindCSS <br>
+🗔 Confira a aplicação: https://landing-page-tailwindcss-byxj64vcj-klausmorotti.vercel.app/ <br>
+## :page_facing_up: Explicação
+Uma landing page simples informativa criada com objetivo de colocar em prática minhas habilidades após aprender o uso da biblioteca TailwindCSS.
 
-In the project directory, you can run:
+A página foi desenvolvida em ReactJS com uma mescla de Styled Components e TailwindCSS para a estilização. Consiste em uma simples página informativa e 100% responsiva para qualquer tipo de dispositivo.
 
-### `npm start`
+Neste projeto aprendi efetivamente a utilizar a biblioteca TailwindCSS e entender melhor sobre a estruturação de projetos com Styled Components.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📁 Páginas
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+O site tem no total 1 página, sendo ela
 
-### `npm test`
+- **Página principal:** A tela principal que exibe as informações.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## 🎯 Etapas ##
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+:heavy_check_mark: Criando o projeto com CRA, instalando e configurando Styled Components. <br>
+:heavy_check_mark: Instalando e configurando o TailwindCSS. <br>
+:heavy_check_mark: Desenvolvimento do HTML da página. <br>
+:heavy_check_mark: Estilização da página com Styled Components e TailwindCSS <br>
+:heavy_check_mark: Aplicando Responsividade na página. <br>
+:heavy_check_mark: Projeto Finalizado. <br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Tecnologias ##
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Styled Components](https://styled-components.com/)
+- [TailwindCSS](https://tailwindcss.com/)
 
-### `npm run eject`
+## 🤝 Colaboradores
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🤝 Colaboradores
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/84789400?v=4" width="160px;" alt="Foto do Klaus Morotti no GitHub"/><br>
+        <sub>
+          <b>Klaus Morotti</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 📝 Licença
 
-## Learn More
+Este projeto está sob licença. Consulte o arquivo <a href="https://github.com/klausmorotti/draw-canvas/blob/master/LICENSE">LICENSE</a> para obter mais detalhes.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href="#top">Volte para o topo</a>
