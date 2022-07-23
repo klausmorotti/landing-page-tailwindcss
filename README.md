@@ -1,6 +1,6 @@
-<h1 align="center">Landing Page com TailwindCSS</h1>
+<h1 align="center">LANDING PAGE COM TAILWIND CSS</h1>
 
-<img src="" alt="Video Projeto" width="900" height="500">
+<img src="landing-page-tailwindcss-gif.gif" alt="Video Projeto" width="100%" height="500">
 
 > 🔎 Landing Page informativa utilizando da biblioteca TailwindCSS <br>
 🗔 Confira a aplicação: https://landing-page-tailwindcss-byxj64vcj-klausmorotti.vercel.app/ <br>
